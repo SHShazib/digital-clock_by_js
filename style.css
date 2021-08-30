@@ -1,0 +1,23 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+.clock-area{
+    margin-top: 100px;
+   text-align: center;
+}
+h1{
+    margin-bottom: 60px;
+    font-size: 50px;
+}
+.clock{
+    width: 400px;
+    padding: 15px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    margin: 0 auto;
+    color: #000;
+    font-size: 60px;
+    font-weight: 700;
+    background-color: #fff;
+}
